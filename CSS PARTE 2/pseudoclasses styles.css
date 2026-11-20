@@ -1,0 +1,8 @@
+* {
+    color: blue;
+}
+
+
+li:nth-last-child(8) {
+    color:darkolivegreen;
+}

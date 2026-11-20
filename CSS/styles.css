@@ -1,0 +1,23 @@
+body {
+    font-size:50px;
+}
+
+.vo {
+font-size:500px;
+}
+
+.pai {
+    width:100vw;
+    height:100vh;
+    background-color: blue;
+    color:#ffffff;
+    font-size:2em;
+}
+
+.filho {
+    width:75%;
+    height:25%;
+    background-color: green;
+    color:#ffffff;
+    font-size:20rem;
+}
